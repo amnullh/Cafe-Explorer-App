@@ -15,7 +15,7 @@ Cafe Explorer is a web application built with Flask that allows users to discove
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/cafe-explorer.git
+git clone https://github.com/amnullh/Cafe-Explorer-App.git
 ```
 
 2. Install the required dependencies:
