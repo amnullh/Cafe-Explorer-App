@@ -33,7 +33,7 @@ touch cafes.db
 4. Run the Flask application:
 
 ```bash
-python app.py
+python main.py
 ```
 
 5. Access the web app at [http://localhost:5000](http://localhost:5000).
